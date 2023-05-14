@@ -1,9 +1,9 @@
 # react-to-do-list
-A to-do list built with React. Based on [Web Dev Simplified's tutorial "Learn React With This One Project"](https://youtu.be/Rh3tobg7hEo)
+A to-do list built with React. Based on [WebDevSimplified's tutorial "Learn React With This One Project"](https://youtu.be/Rh3tobg7hEo). Original source code available on [WebDevSimplified's GitHub repo](https://github.com/WebDevSimplified/react-todo-list).
 
 ## Contents 
-
 - [Overview](#overview)
+- [My Process](#my-process)
   - [Built with](#built-with)
 - [Screenshots](#screenshots)
 - [Status](#status)
@@ -11,6 +11,9 @@ A to-do list built with React. Based on [Web Dev Simplified's tutorial "Learn Re
 
 ## Overivew
 This app offers the ability to add items to a ToDo list with features like checking items 'completed' and the option to delete items. The list is stored in `localStorage` so the data persists even when the page is refreshed.
+
+## My Process
+For this project, I followed the instructions outlined in the tutorial video linked above. I started by creating the app within a single file, App.jsx, to ensure full functionality before breaking it into different components and place them in their own files (e.g., TodoItem.jsx, TodoList.jsx). 
 
 ### Built with
 
